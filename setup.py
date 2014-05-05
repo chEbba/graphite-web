@@ -34,7 +34,7 @@ else:
         cf.add_section('install')
     except ConfigParser.DuplicateSectionError:
         pass
-    cf.set('install', 'prefix', '/opt/graphite')
+    cf.set('install', 'prefix', '/var/lib/graphite')
     cf.set('install', 'install-lib', '%(prefix)s/webapp')
 
 with open('setup.cfg', 'wb') as f:

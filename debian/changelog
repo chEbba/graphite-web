@@ -1,3 +1,9 @@
+yabs-graphite-ceres (0.2.2.6-1-patch1) unstable; urgency=low
+
+  * Fix dependencies and base dir.
+
+ -- Kirill Chebunin <iam@chebba.org> Mon, 05 May 2014 17:30:11 +0400
+
 yabs-graphite-ceres (0.2.2.6) unstable; urgency=low
 
   * another one rebuild 

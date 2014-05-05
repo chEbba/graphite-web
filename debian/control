@@ -12,9 +12,7 @@ Depends: python-cairo,
  python-tz, 
  python-pyparsing, 
  python-django-1.4 | python-django (>= 1.4) | python-django-1.6, 
- python-django-tagging, 
- python-mysqldb, 
- mysql-server, 
+ python-django-tagging,
  python-flup
 Description: graph system uses ceres
  New graph system uses ceres
